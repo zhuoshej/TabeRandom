@@ -1,0 +1,6 @@
+{
+    "javascript.validate.enable": false,
+    "eslint.autoFixOnSave": true,
+    "flow.runOnAllFiles": true,
+    "flow.useNPMPackagedFlow": true
+}
